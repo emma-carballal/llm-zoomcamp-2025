@@ -1,4 +1,4 @@
-# LLM Zoomcamp 2025
+# LLM Zoomcamp 2025 - DTC
 <p align="center">
   <img src="images/llm-zoomcamp-2025.jpg" style="width:50%;" />
 </p>
